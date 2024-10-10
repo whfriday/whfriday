@@ -10,3 +10,6 @@
 <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Typing SVG" />
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Typing SVG" />
 </h4>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=whfriday)](https://github.com/ryo-ma/github-profile-trophy)
