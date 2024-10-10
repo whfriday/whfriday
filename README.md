@@ -15,3 +15,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=whfriday)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whfriday&theme=tokyonight)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
